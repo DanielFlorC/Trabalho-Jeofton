@@ -9,7 +9,6 @@ cor3 = "#ff7700"#laranja
 cor4 = "#1a202e"#azul acinzentado
 cor5 = "#5c5c5c"#cinza claro
 
-
 janela =Tk()
 janela.title("Calculadora")
 janela.geometry("235x318")
